@@ -15,3 +15,7 @@
 * Friend Compatibility is simple.  Each question has been ID'd as q1, q2, q3, etc.  User's answers for each are then compared with answers from other users.  The difference between answers will be stored, then added on to a totalDiff variable.  When all users have been calculated, the app will display whichever user has the lowest totalDiff score, in relation to you.
 
 * This isn't scientific in the least bit.  Love is a human construct, devoid of reality or logic.
+
+#Link to Video
+
+https://www.youtube.com/watch?v=jfswhmcSwLg
