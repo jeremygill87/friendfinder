@@ -19,8 +19,8 @@
                 <p>Meet People for Friendship or Sweet Lovin'.  The choice is yours.</p>
                 <br>
                 <div class="">
-                    <a href="survey.html">
-                        <button type="button" class="btn btn-lg btn-primary">
+                    <a href="survey">
+                        <button type="button" class="btn btn-lg btn-primary" id="startSurvey">
                             <h4><span class="glyphicon glyphicon-list-alt"></span>Take the Survey!</h4>
                         </button>
                     </a>
@@ -30,5 +30,10 @@
                 
             </div>
         </div>
+        <script>
+            $("#startSurvey").on("click", function() {
+                window.location.href = "/survey"
+            });
+            </script>
 </body>
 </html>
